@@ -1,12 +1,17 @@
+## DAILY GREEN BY SHANNOR, SWODAHS AND SANBOI
+<p style=" font-style: italic;">Lisez attentivement le détail de chaque quêtes (vous pouvez les relire dans le menu)</p>
+
 ## Présentation de l'équipe
 
 Jeu réalisé par :
 
-PESSEGUE Théo : Mécanismes du personnage dans le jeu, implémentation des quêtes et performances
+PESSEGUE Théo (SHANNOR) : Mécanismes du personnage dans le jeu, implémentation des quêtes et performances <br>
+JACOB PERES Nicolas (SWODAHS) : Réalisation de la MAP, musique dans le jeu et GUI du jeu (écran accueil, dans le jeu, menu,...) <br>
+AKONAF Nassim (SANBOI) : Mouvement caméra et GUI menu
 
-JACOB PERES Nicolas : Réalisation de la MAP, musique dans le jeu et GUI du jeu (écran accueil, dans le jeu, menu,...)
+Daily Green Présentation de l'équipe : https://www.youtube.com/watch?v=G7OAnxv6ykw <br>
+Daily Green Histoire du projet (les coulisses) : https://www.youtube.com/watch?v=HAgoSFC6Mmc <br>
 
-AKONAF Nassim : Mouvement caméra et GUI menu
 
 ## Sommaire
 
@@ -21,9 +26,9 @@ AKONAF Nassim : Mouvement caméra et GUI menu
 
 ## Liens
 
-Lien repo privé : TODO
+Lien repo privé : https://github.com/Shannorr/games-on-web-2023
 
-Lien du jeu : TODO
+Lien du jeu : https://shannorr.github.io/games-on-web-2023/
 
 <a name="presentation"></a>
 
@@ -59,6 +64,18 @@ Nous avons créé ce jeu pour vous aider à comprendre les enjeux environnementa
 
 <a name="ytb"></a>
 
-## Vidéo Youtube
+## Vidéos Youtube
 
-TODO
+https://www.youtube.com/watch?v=2TvXA_iENi8 : Daily Green Quête HEARTLAND GROVE <br>
+https://www.youtube.com/watch?v=6rtBDnd7s4s : Daily Green Quête BLUE LAGOON <br>
+https://www.youtube.com/watch?v=g4zzuRSs62s : Daily Green Quête EMERALDIA CITY <br>
+https://www.youtube.com/watch?v=1R47TsvEoG0 :  Daily Green Quête SMOG <br>
+https://www.youtube.com/watch?v=plE6rneJMLg : Daily Green Présentation des mécaniques de jeu <br>
+https://www.youtube.com/watch?v=G7OAnxv6ykw : Daily Green Présentation de l'équipe <br>
+https://www.youtube.com/watch?v=EwiWhFn06go : Daily Green Présentation de la carte <br>
+https://www.youtube.com/watch?v=uYqb_8oeUSc : Daily Green Présentation menu, minimap <br>
+https://www.youtube.com/watch?v=eG1NClp7wRQ : Daily Green Evolution de la carte <br>
+https://www.youtube.com/watch?v=5cFJWlpA2BU : Daily Green Vidéo intro du jeu <br>
+https://www.youtube.com/watch?v=zYwQXfLCEx8 : Daily Green Fin du jeu <br>
+https://www.youtube.com/watch?v=HAgoSFC6Mmc : Daily Green Histoire du projet (les coulisses) <br>
+https://www.youtube.com/watch?v=fI93mFyOVSI : Daily Green Gameplay <br>
